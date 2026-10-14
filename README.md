@@ -1,6 +1,6 @@
 # Mi primer PR
 
-Este repositorio es un ejemplo para aprender a usar Pull Requests en GitHub. Sirve para qe practiques el flujo completo: crear una rama, hacer un cambio pequeño, y fusionarlo.
+Este repositorio es un ejemplo para aprender a usar Pull Requests en GitHub. Sirve para que practiques el flujo completo: crear una rama, hacer un cambio pequeño, y fusionarlo.
 
 ## ¿Qué es un Pull Request?
 
